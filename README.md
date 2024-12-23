@@ -1,5 +1,8 @@
 # Order Management System
 
+![Screenshot (143)](https://github.com/user-attachments/assets/8280d72e-bd42-4e48-88a6-a8ab78e16a26)
+
+
 ## Overview
 
 This is a backend application that simulates an Order Management System with dynamic discount logic. The system provides RESTful APIs for managing orders and calculating revenue. It's built using Node.js and Express.js, with an in-memory database for storing order data.
